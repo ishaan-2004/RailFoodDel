@@ -22,10 +22,3 @@ Feedback: Delicious Food with Great User Experience
 
 ===============================================================
 
-
-Name : hg
-Contact : 562
-Feedback: hj
-
-===============================================================
-
